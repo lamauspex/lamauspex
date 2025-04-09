@@ -24,13 +24,15 @@
 ## PET проекты:
 📌 **Нейро-Маркетолог** <br>
 Создал инструмент для помощи специалистам в области цифрового маркетинга. Может предоставить пользователям быстрые и точные рекомендации по цифровому маркетингу.<br>
-[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant/tree/master/confic) <br>
 **Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib
+[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant/tree/master/confic) <br>
+
 
 📌 **Помощник при выборе фильма на вечер** <br>
 Создал чат-бота, который способен рекомендовать фильмы, классифицировать жанры, случайным образом выбирать цитаты и предоставлять рекомендации на основе предпочтений пользователя. <br>
-[Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
 **Стек:** Python, Scikit-learn, Pandas, NumPy
+[Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
