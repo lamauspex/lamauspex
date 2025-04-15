@@ -1,0 +1,30 @@
+css
+.project {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border: 1px solid #ccc; / Обрамление для клеток /
+    padding: 10px;
+}
+
+.header {
+    font-weight: bold; / Заголовок выделяем жирным /
+    margin-bottom: 5px; / Отступ между заголовком и содержимым /
+}
+
+.connector {
+    width: 2px;
+    height: 20px;
+    background-color: black;
+    margin: -10px auto;
+}
+
+.description, .link {
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 200px; / Установи ширину по своему вкусу /
+}
+
+.project:nth-child(even) {
+    align-items: flex-end; / Для шахматного порядка /
+}
