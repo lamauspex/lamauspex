@@ -34,6 +34,42 @@
 [Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
 
 
+html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Мой проект</title>
+</head>
+<body>
+    <div class="project">
+        <div class="header">Репозиторий 1</div>
+        <div class="description">Описание проекта 1</div>
+        <div class="link"><a href="ссылканарепозиторий_1">Ссылка на репозиторий 1</a></div>
+    </div>
+    <div class="project">
+        <div class="header">Репозиторий 2</div>
+        <div class="description">Описание проекта 2</div>
+        <div class="link"><a href="ссылканарепозиторий_2">Ссылка на репозиторий 2</a></div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lamauspex&theme=dark&hide_border=false)<br/>
