@@ -34,41 +34,6 @@
 [Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
 
 
-html
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="[styles.css](https://github.com/lamauspex/lamauspex/blob/main/shag.css)">
-    <title>**Chat-bot**</title>
-</head>
-<body>
-    <div class="project">
-        <div class="header">Нейро-Маркетолог</div>
-        <div class="description"> Создал инструмент для помощи специалистам в области цифрового маркетинга. Может предоставить пользователям быстрые и точные рекомендации по цифровому маркетингу.</div>
-        <div class="link"><a href="[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant/tree/master/confic)">Ссылка на репозиторий 1</a></div>
-    </div>
-    <div class="project">
-        <div class="header">Помощник при выборе фильма на вечер</div>
-        <div class="description">Создал чат-бота, который способен рекомендовать фильмы, классифицировать жанры, случайным образом выбирать цитаты и предоставлять рекомендации на основе предпочтений пользователя. <br>
-**Стек:** Python, Scikit-learn, Pandas, NumPy</div>
-        <div class="link"><a href="[Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md)">Ссылка на репозиторий 2</a></div>
-    </div>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # 📊 GitHub Stats:
