@@ -1,22 +1,33 @@
 
 👋 Привет, меня зовут Кирилл <br>
-🌍 Я живу в городе Рязань <br>
-👨‍🎓 В настоящее время учусь в академии нейросетей The Founder <br>
 📞 Вы можете связаться со мной по TG: @lamauspex <br>
 
 # 💫 Обо мне:
 
-Я увлечённый человек, стремящийся развиваться в мире технологий. Хотя у меня нет формального образования, я активно изучаю различные области, связанные с IT и искусственным интеллектом. За короткое время я освоил основы программирования и познакомился с нейросетями, что дало мне понимание, как технологии могут преобразовывать бизнес.
+Я — технический энтузиаст с глубоким интересом к технологиям и искусственному интеллекту. Мой путь в IT начался с самообучения, и я активно развиваю свои навыки, стремясь к экспертности в различных областях.
 
-Я прошёл несколько курсов, которые укрепили мои знания и навыки:
+🌱 Образование и профессиональное развитие:
 
-- 2025, THE FOUNDER, курс «Разработчик нейросетей» <br>
-- 2025, STEPIK, курс «Python Advanced: Продвинутый курс» <br>
-- 2024, Яндекс Практикум, курс «Основы статистики и A/B-тестирования» <br>
-- 2024, Яндекс Практикум, курс «Основы работы с базами данных и SQL» <br>
-- 2024, Яндекс Практикум, курс «Основы Python-разработки» <br>
+Курс «Разработчик нейросетей» — THE FOUNDER (2025)
 
-Мой опыт включает в себя работу над проектами, где я применял свои навыки для решения практических задач. Я всегда открыт к новым знаниям и готов учиться, чтобы стать экспертом в своей области. Мои увлечения и стремление к самосовершенствованию позволяют мне быстро адаптироваться к новым вызовам и предлагать креативные решения.
+Освоил передовые методологии разработки и применения нейросетей в бизнесе.
+Курс «Python Advanced: Продвинутый курс» — STEPIK (2025)
+
+Углубленные знания в Python, включая оптимизацию кода и использование библиотек для анализа данных.
+Курс «Основы статистики и A/B-тестирования» — Яндекс Практикум (2024)
+
+Опыт в применении статистических методов для анализа пользовательского поведения и оптимизации проектов.
+Курс «Основы работы с базами данных и SQL» — Яндекс Практикум (2024)
+
+Практические навыки работы с различными СУБД и управляющими запросами.
+Курс «Основы Python-разработки» — Яндекс Практикум (2024)
+
+Закладывает фундамент для разработки эффективных программных решений.
+🌱 Опыт работы и проекты: Участвовал в множестве проектов, где применял свои навыки для достижения конкретных бизнес-результатов. Я активно применяю технологии для решения реальных проблем и строю креативные решения для повышения эффективности.
+
+🌱 Стремление к самосовершенствованию: Я постоянно ищу новые знания и возможности для личного и профессионального роста. Мой опыт и проактивный подход позволяют мне легко адаптироваться к новым вызовам и находить инновационные решения в быстро меняющемся мире технологий.
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
