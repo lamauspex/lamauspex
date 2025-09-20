@@ -1,7 +1,6 @@
 
 👋 Привет, меня зовут Кирилл <br>
-📞 Вы можете связаться со мной по TG: @lamauspex <br>
-Вы можете связаться со мной по TG: [@lamauspex](tg://resolve?domain=lamauspex)<br>
+📞 Вы можете связаться со мной по TG: [@lamauspex]([tg://resolve?domain=lamauspex](https://t.me/lamauspex))<br>
 
 # 💫 Обо мне:
 
