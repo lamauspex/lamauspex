@@ -1,44 +1,73 @@
-# 👋 Привет!
-Меня зовут Кирилл 📞 Связаться со мной можно по TG: [@lamauspex](tg://resolve?domain=lamauspex)
 
-## 💬 Об авторе
-Я технический энтузиаст с глубоким интересом к технологиям и искусственному интеллекту. Начинал свое путешествие в IT самостоятельно и продолжаю развиваться каждый день.
+👋 Привет, меня зовут Кирилл <br>
+📞 Вы можете связаться со мной по TG: @lamauspex <br>
 
-## 🚀 Технические навыки
-### Освоенные курсы:
-- Разработчик нейросетей — THE FOUNDER (2025)
-- Python Advanced: Продвинутый курс — STEPIK (2025)
-- Основы статистики и A/B-тестирования — Яндекс Практикум (2024)
-- Основы работы с базами данных и SQL — Яндекс Практикум (2024)
-- Основы Python-разработки — Яндекс Практикум (2024)
+# 💫 Обо мне:
 
-### ✨ Проекты:
-- **Кулинарная платформа "Рецептограф"**: Интерактивное приложение для рецептов, реализованное на Python + FastAPI.
-- **Нейро-Маркетолог**: Инструмент для рекомендаций в маркетинге, созданный с использованием библиотеки transformers.
-- **Помощник при выборе фильма на вечер**: Чат-бот для подбора фильмов на основе предпочтений пользователей.
+Я — технический энтузиаст с глубоким интересом к технологиям и искусственному интеллекту. Мой путь в IT начался с самообучения, и я активно развиваю свои навыки, стремясь к экспертности в различных областях.
 
-### 🎯 GitHub Stats
-<div align="center">
-  <p><b>My GitHub Activity:</b></p>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=lamauspex&show_icons=true&locale=en"/></a>
-  <br /><br />
-  <p><b>Most Used Technologies:</b></p>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamauspex&layout=compact&hide_border=false"/></a>
-</div>
+🌱 Образование и профессиональное развитие:
 
-### 🏗️ Tech Stack
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-fastapi-en.png" alt="FastAPI" width="40" height="40"/> 
-  </a> 
-  <!-- Остальные значки аналогично -->
-</p>
+Курс «Разработчик нейросетей» — THE FOUNDER (2025)
+
+Освоил передовые методологии разработки и применения нейросетей в бизнесе.<br>
+
+Курс «Python Advanced: Продвинутый курс» — STEPIK (2025)
+
+Углубленные знания в Python, включая оптимизацию кода и использование библиотек для анализа данных.<br>
+
+Курс «Основы статистики и A/B-тестирования» — Яндекс Практикум (2024)
+
+Опыт в применении статистических методов для анализа пользовательского поведения и оптимизации проектов.<br>
+
+Курс «Основы работы с базами данных и SQL» — Яндекс Практикум (2024)
+
+Практические навыки работы с различными СУБД и управляющими запросами.<br>
+
+Курс «Основы Python-разработки» — Яндекс Практикум (2024)
+
+Закладывает фундамент для разработки эффективных программных решений.<br>
+
+🌱 Опыт работы и проекты: 
+Участвовал в множестве проектов, где применял свои навыки для достижения конкретных бизнес-результатов. Я активно применяю технологии для решения реальных проблем и строю рабочие решения для повышения эффективности.
+
+🌱 Стремление к самосовершенствованию: 
+Я постоянно ищу новые знания и возможности для личного и профессионального роста. Мой опыт и проактивный подход позволяют мне легко адаптироваться к новым вызовам и находить инновационные решения в быстро меняющемся мире технологий.
+
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 💼 PET проекты:
+
+📌 **Кулинарная платформа "Рецептограф"** <br>
+Создал интерактивное веб-приложение, которое позволяет пользователям регистрироваться, создавать и делиться своими любимыми рецептами. Удобный интерфейс для поиска, сохранения в избранное и оставления комментариев к рецептам делает кулинарию доступной и увлекательной для каждого!<br>
+**Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic
+[Ссылка на проект](https://github.com/lamauspex/Recipe-Manager) <br>
+
+
+📌 **Нейро-Маркетолог** <br>
+Создал инструмент для помощи специалистам в области цифрового маркетинга. Может предоставить пользователям быстрые и точные рекомендации по цифровому маркетингу.<br>
+**Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib
+[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant/tree/master/confic) <br>
+
+
+📌 **Помощник при выборе фильма на вечер** <br>
+Создал чат-бота, который способен рекомендовать фильмы, классифицировать жанры, случайным образом выбирать цитаты и предоставлять рекомендации на основе предпочтений пользователя.
+<br>
+**Стек:** Python, Scikit-learn, Pandas, NumPy
+[Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lamauspex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=lamauspex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Используя эти советы и шаблоны, ты сможешь значительно улучшить внешний вид своего GitHub-профиля и представить себя потенциальным работодателям и коллегам наилучшим образом!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
