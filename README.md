@@ -32,7 +32,7 @@
 ✅ Автоматизация: Ускоряю разработку и деплой, применяя Docker и DevOps-практики для быстрой и безопасной поставки изменений.<br>
 
 
-
+<p></p><!-- Добавляет дополнительное расстояние -->
 
 
 # 💻 Tech Stack:
@@ -59,7 +59,7 @@
 ![Docker Compose](https://img.shields.io/badge/DockerCompose-%23386DAA.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/swaggerui-%23FFBC32.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
-
+<p></p><!-- Добавляет дополнительное расстояние -->
 # 💼 PET проекты:
 
 ### 📌 Кулинарная платформа "Рецептограф" <br>
