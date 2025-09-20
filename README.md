@@ -1,6 +1,7 @@
 
 👋 Привет, меня зовут Кирилл <br>
 📞 Вы можете связаться со мной по TG: @lamauspex <br>
+Вы можете связаться со мной по TG: [@lamauspex](tg://resolve?domain=lamauspex)<br>
 
 # 💫 Обо мне:
 
@@ -60,6 +61,7 @@
 ![Swagger UI](https://img.shields.io/badge/swaggerui-%23FFBC32.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 <p></p><!-- Добавляет дополнительное расстояние -->
+
 # 💼 PET проекты:
 
 ### 📌 Кулинарная платформа "Рецептограф" <br>
