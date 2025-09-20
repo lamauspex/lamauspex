@@ -44,6 +44,11 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%234479A1.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white) 
 ![Pydantic](https://img.shields.io/badge/Pydantic-FFDD54?style=for-the-badge&logo=pydantic&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/prometheus-%23F46A21.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/DockerCompose-%23386DAA.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/swaggerui-%23FFBC32.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 
 # 💼 PET проекты:
