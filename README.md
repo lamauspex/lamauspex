@@ -101,7 +101,7 @@
 что позволяет легко поддерживать и расширять приложение.<br>
  <br>
 **Стек:** Go, Echo, PostgreSQL, Zap Logging <br>
-[Ссылка на проект](https://github.com/lamauspex/kino_bot/blob/master/README.md) <br>
+[Ссылка на проект](https://github.com/lamauspex/Person_service) <br>
 
 
 
