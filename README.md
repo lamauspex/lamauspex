@@ -88,11 +88,11 @@
 [Ссылка на проект](https://github.com/lamauspex/Recipe-Manager)<br>
 
 
-## 📌 Telegram bot c AI "Нейро-Маркетолог" <br>
-Создал инструмент для помощи специалистам в области цифрового маркетинга. Может предоставить пользователям быстрые и точные рекомендации по цифровому маркетингу.<br>
+## 📌 "Digital Marketing Assistant" <br>
+Проект представляет собой интерактивного помощника в области цифрового маркетинга, способного обрабатывать запросы пользователей, давать советы, предлагать стратегии и демонстрировать лучшие практики в маркетинге.<br>
  <br>
-**Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib <br>
-[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant/tree/master/confic) <br>
+**Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib, LlamaIndex <br>
+[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant) <br>
 
 
 ## 📌 Telegram bot "Помощник при выборе фильма на вечер" <br>
