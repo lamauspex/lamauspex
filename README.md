@@ -1,7 +1,5 @@
 
-👋 **Привет, меня зовут Кирилл**       
-
-📞 **Вы можете связаться со мной**  <a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 # 💫 Обо мне:
 
