@@ -1,4 +1,4 @@
-![GIF-анимация](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNsamM4M2lkMWZkcW91MHNtZjdiN2Zwc3Fpb2Jqa3d0Z25jc2RoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif)
+
 <a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 # 💫 Обо мне:
@@ -105,16 +105,11 @@
 
 # 📊 GitHub Stats:
 
-![lamauspex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=tokyonight&hide_border=false)
-
-![lamauspex's Stats](https://github-readme-stats.vercel.app/api?username=lamauspex&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![lamauspex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamauspex&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lamauspex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lamauspex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GIF-анимация](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNsamM4M2lkMWZkcW91MHNtZjdiN2Zwc3Fpb2Jqa3d0Z25jc2RoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=lamauspex&icon=0&color=0)](https://visitcount.itsvg.in)
 
