@@ -1,5 +1,6 @@
 
 <a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+![GIF-анимация](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtdjZwNjk1Y2Zyc2hsZGx6ZTh5anQzeXYycDBhbXI4dXBkNm56dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 # 💫 Обо мне:
 
