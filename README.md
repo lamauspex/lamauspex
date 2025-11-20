@@ -2,12 +2,13 @@
 <a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 ![GIF-анимация](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtdjZwNjk1Y2Zyc2hsZGx6ZTh5anQzeXYycDBhbXI4dXBkNm56dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
+
 # 💫 Обо мне: <br>
-
-Python разработчик с 2-летним опытом создания backend систем и ML-решений. Специализируюсь на разработке RESTful API, работе с данными и внедрении алгоритмов машинного обучения в production. Разрабатываю высокопроизводительные сервисы, применяю современные подходы к архитектуре систем и оптимизации производительности.
-
+<span style="font-size: 1.2em; font-weight: bold;">Python разработчик с 2-летним опытом создания backend систем и ML-решений. Специализируюсь на разработке RESTful API, работе с данными и внедрении алгоритмов машинного обучения в production. Разрабатываю высокопроизводительные сервисы, применяю современные подходы к архитектуре систем и оптимизации производительности.</span>
 
 <p><br></p>
+
+
 
 ## 🌱 Образование и профессиональное развитие:
 
@@ -24,24 +25,31 @@ Python разработчик с 2-летним опытом создания ba
 <p><br></p>
 
 
+
+
 ## 🔧 Технические навыки: <br>
 
 💻 **Backend разработка:** <br>
-• Разработка REST API на FastAPI с обработкой 1000+ запросов/минуту<br>
+<span style="font-size: 1.2em;">• Разработка REST API на FastAPI с обработкой 1000+ запросов/минуту<br>
 • Проектирование схем БД с использованием SQLAlchemy ORM<br>
 • Реализация асинхронных операций для повышения производительности<br>
-• Внедрение JWT аутентификации и ролевой модели доступа<br>
+• Внедрение JWT аутентификации и ролевой модели доступа</span><br>
 
 🧠 **Data Science & ML:** <br>
-• Создание и валидация ML-моделей с использованием TensorFlow/PyTorch<br>
+<span style="font-size: 1.2em;">• Создание и валидация ML-моделей с использованием TensorFlow/PyTorch<br>
 • Обработка и анализ данных с помощью Pandas, NumPy<br>
 • Визуализация результатов и метрик через Matplotlib, Plotly<br>
-• Внедрение алгоритмов глубокого обучения в production<br>
+• Внедрение алгоритмов глубокого обучения в production</span><br>
 
 ✅ **Тестирование и качество:** <br>
-• Модульное тестирование с помощью Pytest<br>
+<span style="font-size: 1.2em;">• Модульное тестирование с помощью Pytest<br>
 • Интеграционное тестирование API endpoints<br>
-• Написание тестовой документации и API спецификаций<br>
+• Написание тестовой документации и API спецификаций</span>
+
+
+
+
+
 
 <p><br></p>
 
@@ -78,53 +86,53 @@ Python разработчик с 2-летним опытом создания ba
 # 💼 Реализованные проекты:
 
 ## 📌 Task Manager Pro - Enterprise Edition <br>
-Высокопроизводительная система управления задачами <br>
+<span style="font-size: 1.2em;">Высокопроизводительная система управления задачами <br>
 • Архитектура микросервисов с FastAPI и PostgreSQL <br>
 • Реализация JWT аутентификации и ролевой модели доступа <br>
 • Интеграция с внешними календарными API (Google Calendar) <br>
 • Тестирование: 85%+ покрытие кода, автоматические тесты <br>
-• Производительность: обработка 500+ операций/минуту<br>
+• Производительность: обработка 500+ операций/минуту</span><br>
 <br>
 **Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic, Pytest, Plotly, Pandas <br>
  [Ссылка на проект](https://github.com/lamauspex/Task_Manager) <br>
 
 ## 📌 Smart Home Energy Optimization System <br>
-Система оптимизации энергопотребления с использованием алгоритмов глубокого обучения <br>
+<span style="font-size: 1.2em;">Система оптимизации энергопотребления с использованием алгоритмов глубокого обучения <br>
 • Реализован алгоритм Deep Q-Learning для управления энергопотреблением <br>
 • Снижение энергозатрат на 25-30% в тестовых сценариях <br>
 • Архитектура: Python, TensorFlow, Keras, real-time data processing <br>
-• Производительность: обработка 1000+ событий/день<br>
+• Производительность: обработка 1000+ событий/день</span><br>
 <br>
  **Стек:** Python, Tensorflow, Keras, Seaborn, Plotly, Matplotlib <br>
 [Ссылка на проект GitHub](https://github.com/lamauspex/DeepEcoHome) <br>
 [Ссылка на проект Colab](https://colab.research.google.com/drive/1OGb78XuiQue4ShaIkMkO7PlB9RedoXPh?usp=sharing) <br>
 
 ## 📌 Recipe Platform - Social Network <br>
-Кулинарная платформа с социальными функциями <br>
+<span style="font-size: 1.2em;">Кулинарная платформа с социальными функциями <br>
 • Система рекомендаций рецептов на основе предпочтений пользователей <br>
 • Real-time уведомления и комментарии <br>
 • Оптимизация производительности БД для 10K+ пользователей <br>
-• Архитектура: FastAPI, SQLAlchemy, SQLite, Alembic<br>
+• Архитектура: FastAPI, SQLAlchemy, SQLite, Alembic</span><br>
 <br>
 **Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic <br>
 [Ссылка на проект](https://github.com/lamauspex/Recipe-Manager)<br>
 
 
 ## 📌 Digital Marketing Assistant <br>
-Интерактивный помощник в области цифрового маркетинга <br>
+<span style="font-size: 1.2em;">Интерактивный помощник в области цифрового маркетинга <br>
 • Обработка естественного языка для анализа маркетинговых запросов <br>
 • Генерация стратегий и рекомендаций на основе ML-моделей <br>
-• Интеграция с внешними API для получения рыночных данных<br>
+• Интеграция с внешними API для получения рыночных данных</span><br>
 <br>
 **Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib, LlamaIndex <br>
 [Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant) <br>
 
 
 ## 📌 Simple Person Service <br>
-RESTful API сервис для управления данными пользователей <br>
+<span style="font-size: 1.2em;">RESTful API сервис для управления данными пользователей <br>
 • Полный CRUD функционал с валидацией данных <br>
 • Четкая архитектура с разделением слоев приложения <br>
-• Логирование операций с использованием структурированных логов<br>
+• Логирование операций с использованием структурированных логов</span><br>
  <br>
 **Стек:** Go, Echo, PostgreSQL, Zap Logging <br>
 [Ссылка на проект](https://github.com/lamauspex/Person_service) <br>
