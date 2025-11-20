@@ -83,8 +83,8 @@ Python разработчик с 2-летним опытом создания ba
 • Реализация JWT аутентификации и ролевой модели доступа <br>
 • Интеграция с внешними календарными API (Google Calendar) <br>
 • Тестирование: 85%+ покрытие кода, автоматические тесты <br>
-• Производительность: обработка 500+ операций/минуту<br> <br>
- <br>
+• Производительность: обработка 500+ операций/минуту<br>
+<br>
 **Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic, Pytest, Plotly, Pandas <br>
  [Ссылка на проект](https://github.com/lamauspex/Task_Manager) <br>
 
@@ -94,7 +94,7 @@ Python разработчик с 2-летним опытом создания ba
 • Снижение энергозатрат на 25-30% в тестовых сценариях <br>
 • Архитектура: Python, TensorFlow, Keras, real-time data processing <br>
 • Производительность: обработка 1000+ событий/день<br>
- <br>
+<br>
  **Стек:** Python, Tensorflow, Keras, Seaborn, Plotly, Matplotlib <br>
 [Ссылка на проект GitHub](https://github.com/lamauspex/DeepEcoHome) <br>
 [Ссылка на проект Colab](https://colab.research.google.com/drive/1OGb78XuiQue4ShaIkMkO7PlB9RedoXPh?usp=sharing) <br>
@@ -105,7 +105,7 @@ Python разработчик с 2-летним опытом создания ba
 • Real-time уведомления и комментарии <br>
 • Оптимизация производительности БД для 10K+ пользователей <br>
 • Архитектура: FastAPI, SQLAlchemy, SQLite, Alembic<br>
- <br>
+<br>
 **Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic <br>
 [Ссылка на проект](https://github.com/lamauspex/Recipe-Manager)<br>
 
@@ -115,7 +115,7 @@ Python разработчик с 2-летним опытом создания ba
 • Обработка естественного языка для анализа маркетинговых запросов <br>
 • Генерация стратегий и рекомендаций на основе ML-моделей <br>
 • Интеграция с внешними API для получения рыночных данных<br>
- <br>
+<br>
 **Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib, LlamaIndex <br>
 [Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant) <br>
 
