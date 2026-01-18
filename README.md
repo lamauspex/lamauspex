@@ -141,9 +141,6 @@
 <p><br></p><!-- Добавляет дополнительное расстояние -->
 
 
-![GIF-анимация](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNsamM4M2lkMWZkcW91MHNtZjdiN2Zwc3Fpb2Jqa3d0Z25jc2RoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif)
----
-[![](https://visitcount.itsvg.in/api?id=lamauspex&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
