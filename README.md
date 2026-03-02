@@ -16,7 +16,6 @@
 | **DevOps** | Docker, Docker Compose, GitHub Actions |
 
 ---
-
 ### 📊 GitHub Stats
 
 | | |
@@ -25,12 +24,13 @@
 
 ---
 
+
+
 ### 🚀 Избранные проекты
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [Task Manager Pro](https://github.com/lamauspex/Task_Manager) | Enterprise система управления задачами с JWT, Google Calendar, Celery, аналитика | FastAPI, PostgreSQL, Docker, Plotly |
-| [Smart Home Energy Optimization System][Ссылка на проект GitHub](https://github.com/lamauspex/DeepEcoHome)[Ссылка на проект Colab](https://colab.research.google.com/drive/1OGb78XuiQue4ShaIkMkO7PlB9RedoXPh?usp=sharing) |
 | [DeepEcoHome](https://github.com/lamauspex/DeepEcoHome) | Оптимизация энергопотребления на Deep Q-Learning (25% экономии) | TensorFlow, Keras, RL |
 | [Person Service](https://github.com/lamauspex/Person_service) | REST API на Go с Clean Architecture | Go, Echo, PostgreSQL, Zap |
 | [Recipe Platform](https://github.com/lamauspex/Recipe-Manager) | Платформа рецептов с рекомендациями | FastAPI, SQLAlchemy, Docker |
