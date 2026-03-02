@@ -2,7 +2,15 @@
 
 **Backend Developer** | Python & Go | ML Engineer
 
-> Разрабатываю высоконагруженные системы и внедряю ML-решения в production
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lamauspex)
+[![Email](https://img.shields.io/badge/Email-lamauspex@yandex.ru-blue?style=for-the-badge)](mailto:lamauspex@yandex.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-lamauspex-black?style=for-the-badge&logo=github)](https://github.com/lamauspex)
+
+---
+
+> Разрабатываю высоконагруженные системы и внедряю ML-решения в production 
+>
+> Открыт к предложениям о работе в команде с интересными задачами
 
 ---
 
@@ -19,14 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-| | |
-|---|---|
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
 
 ---
-
 
 ### 🚀 Избранные проекты
 
@@ -40,14 +43,3 @@
 | [Crypto Tracker](https://github.com/lamauspex/test_task-Crypto-Price-Tracker) | API мониторинга криптовалют | FastAPI, Docker, Swagger |
 
 ---
-
-
-### 📫 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lamauspex)
-[![Email](https://img.shields.io/badge/Email-lamauspex@yandex.ru-blue?style=for-the-badge)](mailto:lamauspex@yandex.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-lamauspex-black?style=for-the-badge&logo=github)](https://github.com/lamauspex)
-
----
-
-*Открыт к предложениям о работе в команде с интересными задачами*
