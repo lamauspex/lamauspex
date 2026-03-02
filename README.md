@@ -1,101 +1,59 @@
+# Резник Кирилл
 
-<a href="mailto:lamauspex@yandex.ru"><img src="https://img.shields.io/badge/Yandex%20Mail-%23333.svg?style=for-the-badge&logo=Yandex&logoColor=white"/></a>  <a href="https://t.me/lamauspex"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-![GIF-анимация](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtdjZwNjk1Y2Zyc2hsZGx6ZTh5anQzeXYycDBhbXI4dXBkNm56dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+**Backend Developer** | Python & Go | ML Engineer
 
+> Разрабатываю высоконагруженные системы и внедряю ML-решения в production
 
-# 💫 Обо мне: <br>
-<span style="font-size: 1.2em; font-weight: bold;">Python разработчик с 2-летним опытом создания backend систем и ML-решений. Специализируюсь на разработке RESTful API, работе с данными и внедрении алгоритмов машинного обучения в production. Разрабатываю сервисы, применяю современные подходы к архитектуре систем и оптимизации производительности.</span>
+---
 
-<p><br></p>
+### 🛠 Tech Stack
 
+| Категория | Технологии |
+|-----------|------------|
+| **Backend** | Python, Go, FastAPI, Django  |
+| **ML/AI** | TensorFlow, PyTorch, Scikit-learn, Transformers |
+| **Database** | PostgreSQL, Redis, SQLite |
+| **DevOps** | Docker, Docker Compose, GitHub Actions |
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GoLang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%234479A1.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-FFDD54?style=for-the-badge&logo=pydantic&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23F46A21.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/DockerCompose-%23386DAA.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger UI](https://img.shields.io/badge/swaggerui-%23FFBC32.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-<p></p>
-<p></p>
+### 📊 GitHub Stats
 
-# 💼 Реализованные проекты:
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamauspex&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
 
-## 📌 Task Manager Pro - Enterprise Edition <br>
-<span style="font-size: 1.2em;">Высокопроизводительная система управления задачами <br>
-• Архитектура микросервисов с FastAPI и PostgreSQL <br>
-• Реализация JWT аутентификации и ролевой модели доступа <br>
-• Интеграция с внешними календарными API (Google Calendar) <br>
-• Тестирование: 85%+ покрытие кода, автоматические тесты <br>
-• Производительность: обработка 500+ операций/минуту</span><br>
-<br>
-**Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic, Pytest, Plotly, Pandas <br>
- [Ссылка на проект](https://github.com/lamauspex/Task_Manager) <br>
+---
 
-## 📌 Smart Home Energy Optimization System <br>
-<span style="font-size: 1.2em;">Система оптимизации энергопотребления с использованием алгоритмов глубокого обучения <br>
-• Реализован алгоритм Deep Q-Learning для управления энергопотреблением <br>
-• Снижение энергозатрат на 25-30% в тестовых сценариях <br>
-• Архитектура: Python, TensorFlow, Keras, real-time data processing <br>
-• Производительность: обработка 1000+ событий/день</span><br>
-<br>
- **Стек:** Python, Tensorflow, Keras, Seaborn, Plotly, Matplotlib <br>
-[Ссылка на проект GitHub](https://github.com/lamauspex/DeepEcoHome) <br>
-[Ссылка на проект Colab](https://colab.research.google.com/drive/1OGb78XuiQue4ShaIkMkO7PlB9RedoXPh?usp=sharing) <br>
+### 🚀 Избранные проекты
 
-## 📌 Recipe Platform - Social Network <br>
-<span style="font-size: 1.2em;">Кулинарная платформа с социальными функциями <br>
-• Система рекомендаций рецептов на основе предпочтений пользователей <br>
-• Real-time уведомления и комментарии <br>
-• Оптимизация производительности БД для 10K+ пользователей <br>
-• Архитектура: FastAPI, SQLAlchemy, SQLite, Alembic</span><br>
-<br>
-**Стек:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, Alembic <br>
-[Ссылка на проект](https://github.com/lamauspex/Recipe-Manager)<br>
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Task Manager Pro](https://github.com/lamauspex/Task_Manager) | Enterprise система управления задачами с JWT, Google Calendar, Celery, аналитика | FastAPI, PostgreSQL, Docker, Plotly |
+| [Smart Home Energy Optimization System][Ссылка на проект GitHub](https://github.com/lamauspex/DeepEcoHome)[Ссылка на проект Colab](https://colab.research.google.com/drive/1OGb78XuiQue4ShaIkMkO7PlB9RedoXPh?usp=sharing) |
+| [DeepEcoHome](https://github.com/lamauspex/DeepEcoHome) | Оптимизация энергопотребления на Deep Q-Learning (25% экономии) | TensorFlow, Keras, RL |
+| [Person Service](https://github.com/lamauspex/Person_service) | REST API на Go с Clean Architecture | Go, Echo, PostgreSQL, Zap |
+| [Recipe Platform](https://github.com/lamauspex/Recipe-Manager) | Платформа рецептов с рекомендациями | FastAPI, SQLAlchemy, Docker |
+| [Smart Real Estate](https://github.com/lamauspex/Smart-Real-Estate) | Django + ML прогнозирование цен | Django, DRF, Scikit-learn, Celery |
+| [Crypto Tracker](https://github.com/lamauspex/test_task-Crypto-Price-Tracker) | API мониторинга криптовалют | FastAPI, Docker, Swagger |
 
+---
 
-## 📌 Digital Marketing Assistant <br>
-<span style="font-size: 1.2em;">Интерактивный помощник в области цифрового маркетинга <br>
-• Обработка естественного языка для анализа маркетинговых запросов <br>
-• Генерация стратегий и рекомендаций на основе ML-моделей <br>
-• Интеграция с внешними API для получения рыночных данных</span><br>
-<br>
-**Стек:** Transformers, Pandas, logging, Sklearn, Matplotlib, LlamaIndex <br>
-[Ссылка на проект](https://github.com/lamauspex/Digital_Marketing_Assistant) <br>
+### 🎯 Ключевые навыки
 
+- **Backend Development** — REST API, микросервисы, Clean Architecture
+- **Machine Learning** — обучение с подкреплением, NLP, прогнозирование
+- **Database Design** — PostgreSQL, Redis, оптимизация запросов
+- **DevOps** — Docker, Docker Compose, CI/CD
 
-## 📌 Simple Person Service <br>
-<span style="font-size: 1.2em;">RESTful API сервис для управления данными пользователей <br>
-• Полный CRUD функционал с валидацией данных <br>
-• Четкая архитектура с разделением слоев приложения <br>
-• Логирование операций с использованием структурированных логов</span><br>
- <br>
-**Стек:** Go, Echo, PostgreSQL, Zap Logging <br>
-[Ссылка на проект](https://github.com/lamauspex/Person_service) <br>
+---
 
-<p><br></p><!-- Добавляет дополнительное расстояние -->
-<p><br></p><!-- Добавляет дополнительное расстояние -->
+### 📫 Контакты
 
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lamauspex)
+[![Email](https://img.shields.io/badge/Email-lamauspex@yandex.ru-blue?style=for-the-badge)](mailto:lamauspex@yandex.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-lamauspex-black?style=for-the-badge&logo=github)](https://github.com/lamauspex)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+*Открыт к предложениям о работе в команде с интересными задачами*
