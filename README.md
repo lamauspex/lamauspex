@@ -16,13 +16,24 @@
 | **DevOps** | Docker, Docker Compose, GitHub Actions |
 
 ---
+
+### 🎯 Ключевые навыки
+
+- **Backend Development** — REST API, микросервисы, Clean Architecture
+- **Machine Learning** — обучение с подкреплением, NLP, прогнозирование
+- **Database Design** — PostgreSQL, Redis, оптимизация запросов
+- **DevOps** — Docker, Docker Compose, CI/CD
+
+---
+
 ### 📊 GitHub Stats
 
 | | |
 |---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamauspex&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
 
 ---
+
 
 
 
@@ -39,14 +50,6 @@
 
 ---
 
-### 🎯 Ключевые навыки
-
-- **Backend Development** — REST API, микросервисы, Clean Architecture
-- **Machine Learning** — обучение с подкреплением, NLP, прогнозирование
-- **Database Design** — PostgreSQL, Redis, оптимизация запросов
-- **DevOps** — Docker, Docker Compose, CI/CD
-
----
 
 ### 📫 Контакты
 
