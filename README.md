@@ -27,7 +27,7 @@
 
 ---
 
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) 
 
 ---
 
