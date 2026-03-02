@@ -6,23 +6,16 @@
 
 ---
 
-### 🛠 Tech Stack
 
-| Категория | Технологии |
-|-----------|------------|
-| **Backend** | Python, Go, FastAPI, Django  |
-| **ML/AI** | TensorFlow, PyTorch, Scikit-learn, Transformers |
-| **Database** | PostgreSQL, Redis, SQLite |
-| **DevOps** | Docker, Docker Compose, GitHub Actions |
 
----
+### 🛠 Tech Stack & Key Skills
 
-### 🎯 Ключевые навыки
-
-- **Backend Development** — REST API, микросервисы, Clean Architecture
-- **Machine Learning** — обучение с подкреплением, NLP, прогнозирование
-- **Database Design** — PostgreSQL, Redis, оптимизация запросов
-- **DevOps** — Docker, Docker Compose, CI/CD
+| Категория      | Технологии                          | Ключевые навыки                     |
+|----------------|-------------------------------------|--------------------------------------|
+| **Backend**    | Python, Go, FastAPI, Django         | REST API, микросервисы               |
+| **ML/AI**      | TensorFlow, PyTorch, Scikit-learn, Transformers | Обучение с подкреплением, NLP, прогнозирование |
+| **Database**   | PostgreSQL, Redis, SQLite           | Database design, оптимизация запросов|
+| **DevOps**     | Docker, Docker Compose, GitHub Actions | CI/CD, контейнеризация            |
 
 ---
 
@@ -33,8 +26,6 @@
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamauspex&theme=radical) |
 
 ---
-
-
 
 
 ### 🚀 Избранные проекты
