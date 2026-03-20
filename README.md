@@ -5,6 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lamauspex)
 [![Email](https://img.shields.io/badge/Email-lamauspex@yandex.ru-blue?style=for-the-badge)](mailto:lamauspex@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-lamauspex-black?style=for-the-badge&logo=github)](https://github.com/lamauspex)
+[![Сетка](https://img.shields.io/badge/Сетка-agf2phd-orange?style=for-the-badge)](https://set.ki/agf2phd)
 
 ---
 
