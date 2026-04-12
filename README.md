@@ -39,7 +39,7 @@
 | [Task Manager Pro](https://github.com/lamauspex/Task_Manager) | Enterprise система управления задачами с JWT, Google Calendar, Celery, аналитика | FastAPI, PostgreSQL, Docker, Plotly |
 | [DeepEcoHome](https://github.com/lamauspex/DeepEcoHome) | Оптимизация энергопотребления на Deep Q-Learning (25% экономии) | TensorFlow, Keras, RL |
 | [Person Service](https://github.com/lamauspex/Person_service) | REST API на Go с Clean Architecture | Go, Echo, PostgreSQL, Zap |
-| [Recipe Platform](https://github.com/lamauspex/Recipe-Manager) | Платформа рецептов с рекомендациями | FastAPI, SQLAlchemy, Docker |
+| [Recipe Platform](https://github.com/lamauspex/Recipe-Service) | Платформа рецептов с рекомендациями | FastAPI, SQLAlchemy, Docker |
 | [Smart Real Estate](https://github.com/lamauspex/Smart-Real-Estate) | Django + ML прогнозирование цен | Django, DRF, Scikit-learn, Celery |
 | [Crypto Tracker](https://github.com/lamauspex/test_task-Crypto-Price-Tracker) | API мониторинга криптовалют | FastAPI, Docker, Swagger |
 
